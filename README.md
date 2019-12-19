@@ -24,12 +24,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Ludlow Advertiser: [Huge rise in number of people on Dudley's dementia register](https://www.ludlowadvertiser.co.uk/news/regional/18107597.huge-rise-number-people-dudleys-dementia-register/) *19 December 2019*
 * Bolton News: [Number of people in Bolton living with dementia rises 26 per cent in five years](https://www.theboltonnews.co.uk/news/18110354.number-people-bolton-living-dementia-rises-26-per-cent-five-years/) *19 December 2019*
 
-
-
-
-
-The story was also used by  
-
+The story was also used by BBC London, BBC South East Today, BBC Midlands Today, BBC Radio Nottingham, BBC Radio Kent, BBC Radio York and BBC Hereford & Worcester.
 
 ## Get the data 
 
