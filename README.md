@@ -16,6 +16,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * ITV Anglia: [Dementia rates increase by over 50% in five years in some East of England areas](https://www.itv.com/news/anglia/2019-12-18/dementia-rates-increase-by-over-50-in-five-years-in-some-east-of-england-areas/) *18 December 2019*
 * Signal 107FM: [Rise in dementia diagnosis across West Midlands](https://www.signal107.co.uk/news/local/rise-in-dementia-diagnosis-across-west-midlands/) *19 December 2019*
+* JackFM: [Dementia diagnosis in Oxfordshire rises by 63%](https://www.jackfm.co.uk/news/oxfordshire-news/dementia-diagnosis-in-oxfordshire-rises-by-63/) *19 December 2019*
+* The Scotsman: [UK charities in plea for more help with dementia](https://www.scotsman.com/health/uk-charities-in-plea-for-more-help-with-dementia-1-5064516) *19 December 2019*
+* Kent Online: [NHS dementia rates rise significantly in Kent and Medway](https://www.kentonline.co.uk/kent/news/dementia-rates-rocket-by-71-in-kent-218755/) *19 December 2019*
+* Dudley News: [Huge rise in number of people on Dudley's dementia register](https://www.dudleynews.co.uk/news/blackcountry/18107599.huge-rise-number-people-dudleys-dementia-register/) *19 December 2019*
+* Stamford Mercury: [Dementia diagnosis rises in Rutland and South West Lincolnshire](https://www.stamfordmercury.co.uk/news/dementia-diagnosis-rises-significantly-9094065/) *19 December 2019*
+* Ludlow Advertiser: [Huge rise in number of people on Dudley's dementia register](https://www.ludlowadvertiser.co.uk/news/regional/18107597.huge-rise-number-people-dudleys-dementia-register/) *19 December 2019*
+* Bolton News: [Number of people in Bolton living with dementia rises 26 per cent in five years](https://www.theboltonnews.co.uk/news/18110354.number-people-bolton-living-dementia-rises-26-per-cent-five-years/) *19 December 2019*
+
+
 
 
 
