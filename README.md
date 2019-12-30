@@ -30,6 +30,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * ITV Anglia: [Dementia rates increase by over 50% in five years in some East of England areas](https://www.itv.com/news/anglia/2019-12-18/dementia-rates-increase-by-over-50-in-five-years-in-some-east-of-england-areas/) *18 December 2019*
 * Sunderland Echo: [Rise in number of people in Sunderland on dementia register](https://www.sunderlandecho.com/health/rise-number-people-sunderland-dementia-register-1346636) *20 December 2019*
 * Rochdale Online: [Dementia diagnoses up by a third from 2014](https://www.sunderlandecho.com/health/rise-number-people-sunderland-dementia-register-1346636) *20 December 2019*
+* Lynn News: [West Norfolk dementia diagnoses rise by 53% over five years](https://www.lynnnews.co.uk/news/west-norfolk-dementia-diagnoses-rise-by-53-over-five-years-9094612/) *23 December 2019*
+* Nantwich News: [40% rise in dementia patients in South Cheshire, latest figures show](https://thenantwichnews.co.uk/2019/12/28/40-rise-in-dementia-patients-in-south-cheshire-latest-figures-show/) *28 December 2019*
 
 The story was also used by [BBC London](https://drive.google.com/open?id=1D5vT0V3jcjsSB1SXnr4Me2lSOT_bgW28), [BBC South East Today](https://drive.google.com/open?id=1zsIcur0BCihstDRnmKCV7z20YmDYYSn4), BBC Midlands Today, BBC Radio Nottingham, BBC Radio Kent, BBC Radio York, BBC Radio Shropshire, BBC Radio Leeds and BBC Hereford & Worcester.
 
