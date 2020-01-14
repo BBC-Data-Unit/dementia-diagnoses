@@ -34,6 +34,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Eastern Daily Press: [Sharp rise in dementia diagnosis rates across Norfolk](https://www.edp24.co.uk/news/nhs-reveal-norfolk-dementia-diagnosis-increase-1-6437166) *23 December 2019*
 * Nantwich News: [40% rise in dementia patients in South Cheshire, latest figures show](https://thenantwichnews.co.uk/2019/12/28/40-rise-in-dementia-patients-in-south-cheshire-latest-figures-show/) *28 December 2019*
 * Hertfordshire: The Comet: [Dementia care branded 'hit or miss' as diagnosis rates increase across Hertfordshire and beyond](https://www.thecomet.net/news/dementia-diagnosis-figures-released-for-hertfordshire-1-6448132) *2 January 2020*
+* Eastbourne Herald: [Sharp rise in dementia diagnosis rates across East Sussex](https://www.eastbourneherald.co.uk/news/people/sharp-rise-in-dementia-diagnosis-rates-across-east-sussex-1-9199827) *13 January 2020*
 
 The story was also used by [BBC London](https://drive.google.com/open?id=1D5vT0V3jcjsSB1SXnr4Me2lSOT_bgW28), [BBC South East Today](https://drive.google.com/open?id=1zsIcur0BCihstDRnmKCV7z20YmDYYSn4), BBC Midlands Today, BBC Radio Nottingham, BBC Radio Kent, BBC Radio York, BBC Radio Shropshire, BBC Radio Leeds and BBC Hereford & Worcester.
 
