@@ -60,3 +60,7 @@ The story was also used by [BBC London](https://drive.google.com/open?id=1D5vT0V
 
 * [A full briefing pack on the story can be found here](https://docs.google.com/document/d/1ui5Z_akHjN_S3jHaH92a2ZQ1dW8jGW8A2J626a426B4/edit)
 
+## Scripts
+
+[Tom Bokros's R scripts can be found in his repo here](https://github.com/TomBokros/DementiaInvestigation)
+
